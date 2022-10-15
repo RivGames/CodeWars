@@ -23,4 +23,4 @@ function nbDig($n, $d) {
     }
     return $count;
 }
-var_dump(nbDig(5,1));//2  0 
+var_dump(nbDig(5,1));
